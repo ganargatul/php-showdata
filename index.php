@@ -13,6 +13,10 @@
 			<td colspan="5">
 				<h3><center>DATA</center></h3>
 			</td>
+			<td colspan="5">
+				<h3><center>DATA</center></h3>
+				<a href="tambah.php">Tambah</a>
+			</td>
 		</tr>
 		<tr>
 			<th>id</th>

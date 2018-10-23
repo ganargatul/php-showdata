@@ -5,7 +5,7 @@
  <!DOCTYPE html>
  <html>
  <head>
- 	<title>Tambah Data</title>
+ 	<title>Ramadhani Samudra Gawang</title>
  </head>
  <body>
  	<form method="post">
